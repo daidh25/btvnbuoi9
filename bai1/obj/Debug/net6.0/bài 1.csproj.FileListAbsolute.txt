@@ -1,0 +1,14 @@
+D:\ASP\Asp.net\lt8\bài 1\bin\Debug\net6.0\bài 1.exe
+D:\ASP\Asp.net\lt8\bài 1\bin\Debug\net6.0\bài 1.deps.json
+D:\ASP\Asp.net\lt8\bài 1\bin\Debug\net6.0\bài 1.runtimeconfig.json
+D:\ASP\Asp.net\lt8\bài 1\bin\Debug\net6.0\bài 1.dll
+D:\ASP\Asp.net\lt8\bài 1\bin\Debug\net6.0\bài 1.pdb
+D:\ASP\Asp.net\lt8\bài 1\obj\Debug\net6.0\bài 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\lt8\bài 1\obj\Debug\net6.0\bài 1.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\lt8\bài 1\obj\Debug\net6.0\bài 1.AssemblyInfo.cs
+D:\ASP\Asp.net\lt8\bài 1\obj\Debug\net6.0\bài 1.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\lt8\bài 1\obj\Debug\net6.0\bài 1.dll
+D:\ASP\Asp.net\lt8\bài 1\obj\Debug\net6.0\refint\bài 1.dll
+D:\ASP\Asp.net\lt8\bài 1\obj\Debug\net6.0\bài 1.pdb
+D:\ASP\Asp.net\lt8\bài 1\obj\Debug\net6.0\bài 1.genruntimeconfig.cache
+D:\ASP\Asp.net\lt8\bài 1\obj\Debug\net6.0\ref\bài 1.dll
